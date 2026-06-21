@@ -1,5 +1,5 @@
 # Hi, I'm Raghav Dhir 👋
-### Software Engineering Student | CGC @ CEC (Class of 2026)
+### Software Engineering Student | (Class of 2026)
 
 I am a passionate **Software Engineering Student** and **Full Stack Developer** focused on building high-performance backend systems, distributed event streams, and AI-powered browser extensions. With a strong foundation in **Java**, **Spring Boot**, and **JavaScript**, I love creating tools that automate workflows and enhance daily productivity.
 
