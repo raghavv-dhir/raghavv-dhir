@@ -92,8 +92,8 @@ I am a passionate **Software Engineering Student** and **Full Stack Developer** 
 I am always looking to collaborate on open-source projects, learn new frameworks, or solve challenging engineering problems. Let's build something awesome together!
 
 - 💻 **GitHub:** [github.com/raghavv-dhir](https://github.com/raghavv-dhir)
-- 📧 **Email:** [raghavdhir.dev@gmail.com](mailto:raghavdhir.dev@gmail.com)
-- 💼 **LinkedIn:** [Connect with me](#)
+- 📧 **Email:** [raghavdhir.dev@gmail.com](mailto:raghavdhir1510@gmail.com)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/raghvdhir/)
 
 ---
 
