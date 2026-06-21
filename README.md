@@ -1,65 +1,108 @@
-# Hi, I'm Mohed Abbas 👋
+# Hi, I'm Raghav Dhir 👋
+### Software Engineering Student | CGC @ CEC (Class of 2026)
 
-I'm a passionate **Full Stack Developer** with a focus on **PHP** and **JavaScript**. With over **2 years of experience**, I've specialized in creating dynamic websites and developing custom plugins for **Learning Management Systems (LMS)** like **Moodle**.
+I am a passionate **Software Engineering Student** and **Full Stack Developer** focused on building high-performance backend systems, distributed event streams, and AI-powered browser extensions. With a strong foundation in **Java**, **Spring Boot**, and **JavaScript**, I love creating tools that automate workflows and enhance daily productivity.
 
 ---
 
 ## 💡 About Me
 
-- 🔥 **Expertise:** HTML, CSS, JavaScript, PHP, ReactJs, NodeJs, MongoDB, MySQL
-- ⚙️ **Specializations:** Web application development, plugin creation, complex SQL query writing, and system debugging.
-- 🚀 **Passion:** Building interactive, user-friendly digital experiences and troubleshooting code to ensure robust performance.
+- 🏫 **Education:** Software Engineering Student at Chandigarh Group of Colleges (CGC @ CEC Landran), graduating in 2026.
+- 💻 **Backend Specialization:** Proficient in designing secure backend services using Spring Boot, Spring Security (OAuth2), Spring Data JPA, and JDBC.
+- 📡 **Event-Driven Architectures:** Hands-on experience building distributed message-streaming pipelines using Apache Kafka.
+- 🔌 **Chrome Extension & AI Integrations:** Designing intelligent Chrome Extensions that hook into the Google Gemini API to enable real-time reading assistance and context-aware email reply generation.
+- 🧠 **Problem Solving:** Dedicated to practicing Data Structures and Algorithms (`Java-DSA`) to build highly optimized and clean codebases.
 
 ---
 
-# 🛠️ Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)  
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+## 🛠️ Technology Stack
 
+### 💻 Languages & Core
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Database
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-3D3D3D?style=for-the-badge&logo=oauth&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🚀 Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🌟 What I Do
+## 🌟 Featured Projects
 
-I design and develop modern web applications and interactive websites with a focus on clean, efficient code and optimized performance. Whether it’s enhancing LMS platforms like Moodle or building robust backend solutions, I’m dedicated to delivering high-quality digital experiences.
+### 🧩 **Research Assistant Pro (Chrome Extension)**
+*An AI-powered productivity browser extension that empowers users to analyze online articles in real time.*
+- **Tech Stack:** JavaScript, Chrome Extension APIs, Google Gemini API, CSS3
+- **Key Features:**
+  - One-click page summaries and translation shortcuts.
+  - Interactive interface allowing users to query web article content directly.
+  - Minimalist and clean sidebar layout for seamless reading.
+
+### ✉️ **AI Email Reply Generator (Chrome Extension & Web)**
+*An intelligent context-aware reply assistant that generates professional email drafts on the fly.*
+- **Tech Stack:** JavaScript, Chrome Extension APIs, Google Gemini API, HTML5/CSS3
+- **Key Features:**
+  - Instantly reads incoming emails and suggests context-matching replies (Agree, Disagree, Professional tone).
+  - Browser extension integration directly overlaying reply bubbles inside common email clients.
+
+### 🔐 **OAuth2 Secure Authentication Demo**
+*A Spring Boot implementation demonstrating secure user authentication via major third-party OAuth2 providers.*
+- **Tech Stack:** Java, Spring Boot 3, Spring Security OAuth2, Thymeleaf
+- **Key Features:**
+  - Seamless single sign-on (SSO) integration using Google and GitHub.
+  - Custom login endpoints mapped with Spring Security role-based configurations.
+
+### 💬 **Java Multi-Threaded Chat Application**
+*A real-time socket-based messaging app featuring client-server communication.*
+- **Tech Stack:** Java, Socket Programming, Multithreading, Java Swing/AWT
+- **Key Features:**
+  - Multi-threaded server allowing multiple users to connect simultaneously.
+  - Rich desktop Swing-based Graphical User Interface for both client and server monitors.
+
+### 🏪 **Sweet Shop Management System**
+*An inventory, employee database, and billing management console application for sweet shop operations.*
+- **Tech Stack:** Java, JDBC, MySQL, File I/O
+- **Key Features:**
+  - Secure database access layers managing transactions and stock inventories.
+  - Full CRUD capabilities for processing and recording order histories.
+
+### 📡 **Distributed Messaging with Apache Kafka**
+*A hand-on architectural sandbox demonstrating distributed event-driven data streaming pipelines.*
+- **Tech Stack:** Apache Kafka, Java, Spring Boot
+- **Key Features:**
+  - Configured Kafka producer and consumer nodes handling real-time messaging payloads.
+  - Showcase of message broker routing capabilities.
 
 ---
 
 ## 🤝 Let's Connect!
 
-I'm always excited to exchange ideas and collaborate on innovative projects. Feel free to connect with me:
+I am always looking to collaborate on open-source projects, learn new frameworks, or solve challenging engineering problems. Let's build something awesome together!
 
-- 📧 **Email:** [mohed332@gmail.com](mailto:mohed332@gmail.com)
-- 🔗 **LinkedIn:** [Connect with me](#)
+- 💻 **GitHub:** [github.com/raghavv-dhir](https://github.com/raghavv-dhir)
+- 📧 **Email:** [raghavdhir.dev@gmail.com](mailto:raghavdhir.dev@gmail.com)
+- 💼 **LinkedIn:** [Connect with me](#)
 
 ---
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohed-abbas/mohed-abbas/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohed-abbas/mohed-abbas/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mohed-abbas/mohed-abbas/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghavv-dhir/raghavv-dhir/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raghavv-dhir/raghavv-dhir/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/raghavv-dhir/raghavv-dhir/output/github-snake.svg" />
 </picture>
 
 ---
 
-*Thank you for visiting my profile! Let's build something amazing together.* 🚀
+*Thanks for stopping by! Keep exploring and keep coding.* 🚀
