@@ -97,12 +97,4 @@ I am always looking to collaborate on open-source projects, learn new frameworks
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghavv-dhir/raghavv-dhir/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raghavv-dhir/raghavv-dhir/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/raghavv-dhir/raghavv-dhir/output/github-snake.svg" />
-</picture>
-
----
-
 *Thanks for stopping by! Keep exploring and keep coding.* 🚀
